@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vortex</string>
+    <string name="departure_text">
+        IND
+        11:00 AM
+    </string>
+    <string name="arrival_text">
+        LAX
+        3:30 PM
+    </string>
+    <string name="flight_text">DL3458</string>
+</resources>
